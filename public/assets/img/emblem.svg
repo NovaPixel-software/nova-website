@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <defs>
+    <linearGradient id="npsArcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="50%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <path d="M 176.2 182.4 A 84 84 0 1 1 180.4 61.6" fill="none" stroke="url(#npsArcGrad)" stroke-width="14.5" stroke-linecap="round"/>
+  <text x="120" y="135" text-anchor="middle" font-family="'Space Grotesk', 'Inter', Arial, sans-serif" font-weight="700" font-size="45" fill="#0F172A" letter-spacing="1">NPS</text>
+  <g transform="translate(180.4, 61.6)">
+    <polygon points="0,-31 9.3,-9.3 31,0 9.3,9.3 0,31 -9.3,9.3 -31,0 -9.3,-9.3" fill="#FFFFFF" stroke="#0284C7" stroke-width="5.2" stroke-linejoin="round"/>
+    <circle cx="0" cy="0" r="4.2" fill="#0EA5E9"/>
+  </g>
+  <rect x="197.4" y="97.8" width="9.5" height="9.5" rx="2.1" fill="#0EA5E9"/>
+  <rect x="197.3" y="122.5" width="12.5" height="12.5" rx="2.7" fill="#2563EB"/>
+  <rect x="190.4" y="149.8" width="11.5" height="11.5" rx="2.5" fill="#1D4ED8"/>
+</svg>

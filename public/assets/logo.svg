@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64">
-  <rect x="4" y="18" width="13" height="13" rx="3.5" fill="#22d3ee"/>
-  <rect x="20" y="18" width="13" height="13" rx="3.5" fill="#6c5cff"/>
-  <rect x="4" y="34" width="13" height="13" rx="3.5" fill="#6c5cff" opacity="0.55"/>
-  <rect x="20" y="34" width="13" height="13" rx="3.5" fill="#f472b6"/>
-  <text x="46" y="41" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" letter-spacing="-0.6">
-    <tspan fill="#e8ecf6" font-weight="500">Nova</tspan><tspan fill="#e8ecf6" font-weight="800">Pixel</tspan>
-  </text>
-</svg>

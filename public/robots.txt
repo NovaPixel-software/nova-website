@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.novapixelsoftware.com/sitemap.xml
+Sitemap: https://novapixelsoftware.com/sitemap.xml
